@@ -1,0 +1,6 @@
+# Don’t include files that are, or have, fonts
+*.fontpack
+*.otf
+*.ttf
+
+.DS_Store
