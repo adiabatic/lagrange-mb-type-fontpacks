@@ -1,6 +1,6 @@
 # Lagrange fontpacks for MB Type Fonts
 
-I wanted to use fonts from [MB Type][] in [Lagrange][]. Because I wanted better reproduceibility than what I’d get from just relying on my shell’s history, I made a Makefile to capture the process, automate cleaning, and make it easier to make more than one fontpack.
+I wanted to use fonts from [MB Type][] in [Lagrange][]. Because I wanted better reproducibility than what I’d get from just relying on my shell’s history, I made a Makefile to capture the process, automate cleaning, and make it easier to make more than one fontpack.
 
 Simply dig out your MB Type `.otf` font files for your favorite MB Type fonts, put them in the corresponding directory, and then run `make` at the command line to generate the `.fontpack` files. Then drag the `.fontpack` files onto your Lagrange window to install them.
 
