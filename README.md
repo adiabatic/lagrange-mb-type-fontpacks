@@ -14,6 +14,10 @@ They’re not free, so you’ll have to buy them on <https://mbtype.com/>. You c
 
 You’ll want to gather up the OTF fonts in the `+ OT Family` directory. Once you’ve located the `.otf` files for the fonts you want, copy the `.otf` files to the directory with the all-lower-cased font’s name, so the `.otf` files are alongside the `fontpack.ini` files.
 
+### Only a few of the fonts have directories. Where are the others?
+
+I haven’t gotten around to adding them yet.
+
 [mb type]: https://mbtype.com/
 [lagrange]: https://gmi.skyjake.fi/lagrange/
 [buy all]: https://mbtype.com/fonts/buy-all.html
