@@ -16,11 +16,11 @@ You’ll want to gather up the OTF fonts in the `+ OT Family` directory. Once yo
 
 ### Only a few of the fonts have directories. Where are the others?
 
+I haven’t gotten around to adding them yet.
+
 ## License
 
 [CC0][] for my stuff. Not for the fonts themselves, obviously.
-
-I haven’t gotten around to adding them yet.
 
 [mb type]: https://mbtype.com/
 [lagrange]: https://gmi.skyjake.fi/lagrange/
