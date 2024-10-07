@@ -1,4 +1,4 @@
-BASENAMES := heliotrope triplicate valkyrie
+BASENAMES := concourse heliotrope triplicate valkyrie
 TARGETS := $(addsuffix .fontpack,${BASENAMES})
 
 build: ${TARGETS}
